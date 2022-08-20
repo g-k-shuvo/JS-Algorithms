@@ -1,9 +1,4 @@
-function recursiveFactorial(n) {
-  if (n === 0 ){
-    return 1
-  }
+import fibonacci from "./Algorithms/mathAlgoFibonacci.js"
+import factorial from "./Algorithms/mathAlgoFactorial.js"
 
-  return (n * recursiveFactorial(n-1))
-}
 
-console.log(recursiveFactorial(1))
