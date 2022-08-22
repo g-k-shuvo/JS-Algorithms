@@ -6,6 +6,10 @@
 // import recursiveFactorial from "./Algorithms/mathAlgoRecursiveFactorial.js"
 // import linearSearch from "./Algorithms/searchAlgoLinear.js"
 // import binarySearch from "./Algorithms/searchAlgoBinary.js"
+// import recursiveBinarySearch from "./Algorithms/searchAlgoRecursiveBinary.js"
+// import bubbleSort from "./Algorithms/sortingAlgoBubbleSort.js"
+
+
 
 
 
