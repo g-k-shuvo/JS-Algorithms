@@ -8,6 +8,10 @@
 // import binarySearch from "./Algorithms/searchAlgoBinary.js"
 // import recursiveBinarySearch from "./Algorithms/searchAlgoRecursiveBinary.js"
 // import bubbleSort from "./Algorithms/sortingAlgoBubbleSort.js"
+// import insertionSort from "./Algorithms/sortingAlgoInsertionSort.js"
+import quickSort from "./Algorithms/sortingAlgoQuickSort.js"
+
+
 
 
 

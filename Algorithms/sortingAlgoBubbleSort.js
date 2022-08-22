@@ -1,5 +1,10 @@
 // Problem - Given an array of integers 'arr'. sort the array. 
 
+// Bubble Sort Idea: 
+// Compare adjacent elements in the arry and swap the positions if they are not in the intended order.
+// Repeat the instructions as you step through each elements in the array
+// Once you step through the whole array with no swaps, the array is sorted.: 
+
 function bubbleSort(arr) {
   let swapped;
   do {
@@ -15,7 +20,7 @@ function bubbleSort(arr) {
   } while (swapped)
 }
 
-const arr = [9, 7, 18, 25, 5, 6, 2]
+// const arr = [9, 7, 18, 25, 5, 6, 2]
 // bubbleSort(arr)
 // console.log(arr) // [2,  5,  6, 7, 9, 18, 25]
 
