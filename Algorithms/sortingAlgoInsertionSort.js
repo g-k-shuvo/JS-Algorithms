@@ -21,6 +21,6 @@ function insertionSort(arr) {
 }
 const arr = [9, 7, 18, 25, 5, 6, 2]
 insertionSort(arr)
-console.log(arr) // [2,  5,  6, 7, 9, 18, 25]
+// console.log(arr) // [2,  5,  6, 7, 9, 18, 25]
 
 export default insertionSort
