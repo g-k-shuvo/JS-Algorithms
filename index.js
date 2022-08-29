@@ -11,4 +11,5 @@
 // import insertionSort from "./Algorithms/sortingAlgoInsertionSort.js"
 // import quickSort from "./Algorithms/sortingAlgoQuickSort.js"
 // import mergeSort from "./Algorithms/sortingAlgoMergeSort.js"
+// import cartesianProduct from "./Algorithms/cartesianProduct.js"
 
